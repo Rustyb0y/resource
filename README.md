@@ -1,4 +1,10 @@
 # Youtube Description Template
 
+
+
 ## Links
-https://pcpartpicker.com/list/wmRm78
+PC Parts List https://pcpartpicker.com/list/wmRm78
+
+###### Custom Watercooling
+
+Radiator [MO-RA3 420 for Noctua NF-A20](https://shop.watercool.de/MO-RA3-420-for-Noctua-NF-A20_1)
