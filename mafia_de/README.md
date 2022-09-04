@@ -7,7 +7,10 @@
 - Free Ride (Open World Sandbox)
 
 ###### Tips
-- Use proper timed destruction of barrels to kill enemies
+- (General) Use timing to destroy barrels inorder to kill enemies
+- (Fair Play) Use the high points on the banked curves to maintain speed
+- (Fair Play) Better to lose track position than to risk crashing
+- (Fair Play) Try and gain positions early using the braking zones and corners
 
 ## Missions
 
