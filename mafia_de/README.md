@@ -1,29 +1,56 @@
 # Mafia Definitive Edition
 
+## Game
+
+###### Modes
+- Single Player Linear Campaign
+- Free Ride (Open World Sandbox)
+
+###### Tips
+- Use proper timed destruction of barrels to kill enemies
+
 ## Missions
-- 0:00:00 An offer you can't refuse
-- -:--:-- Running Man
-- 0:33:00 Molotov Party
-- 0:58:00 Ordinary Routine
-1:28:00 Intermezzo 
-- 1:32:00 Fair Play
-- 2:57:00 Sarah
-- 3:04:00 Better get used to it 1932
-- -:--:-- The Saint and the Sinner
-4:30:50 Intermezzo
-- 4:35:00 A trip to the Country
-- 0:00:00 Omerta 1933
-- 0:36:00 Visiting Rich People 1933
-- -:--:-- Great Deal 1933
-1:19:00 Intermezzo (Missing Footage)
-- 1:19:00 Bon Apetite 1935
-- 0:00:00 Happy Birthday 1935
-- -:--:-- You Lucky Bastard 1935
-- 1:06:00 Creme de La creme 1935
--:--:-- Intermezzo
-- -:--:-- The Election 1938
+
+Video 1
+
+0:03:54 Intro 1938
+
+1930
+- 0:10:25 An offer you can't refuse
+- 0:20:16 Running Man
+- 0:33:07 Molotov Party
+- 0:58:24 Ordinary Routine
+- 1:28:00 Intermezzo 1938
+1932
+- 1:31:54 Fair Play (Racing)
+- 2:51:25 Sarah
+- 3:04:28 Better get used to it
+- 3:23:05 The Saint and the Sinner
+- 4:30:37 Intermezzo 1938
+1933
+- 4:35:43 A trip to the Country
+Video 2
+- 0:00:00 Omerta
+- 0:36:05 Visiting Rich People
+- -:--:-- Great Deal
+- 1:19:00 Intermezzo (Missing Footage)
+1935
+- 1:19:00 Bon Apetite
+Video 3
+- 0:00:00 Happy Birthday
+- -:--:-- You Lucky Bastard
+- 1:06:00 Creme de La creme
+- -:--:-- Intermezzo
+1938
+- -:--:-- The Election
+
+## Bugs
+
+- 0:03:20:07 Guy flying through the air
 
 ## Notes
+
+Favourite Mission: Fair Play
 
 ###### B-Roll
 
