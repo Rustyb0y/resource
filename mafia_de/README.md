@@ -1,6 +1,6 @@
 # Mafia Definitive Edition
 
-## Game
+## Game Play
 
 ###### Modes
 - Single Player Linear Campaign
@@ -33,25 +33,26 @@ V1 4:30:37 Intermezzo 1938
 - V1 4:35:43 A trip to the Country
 - V2 0:00:00 Omerta
 - V2 0:36:05 Visiting Rich People
-- V2 -:--:-- Great Deal
+- V2 0:59:24 Great Deal
 
-V2 1:19:00 Intermezzo (Missing Footage)
+V2 1:19:53 Intermezzo (Missing Footage)
 
 1935
-- V2 1:19:00 Bon Apetite
+- V2 1:19:53 Bon Apetite
 
 - V3 0:00:00 Happy Birthday
-- V3 -:--:-- You Lucky Bastard
-- V3 1:06:00 Creme de La creme
+- V4 0:23:43 You Lucky Bastard
+- V4 1:06:07 Creme de La creme
 
-V3 -:--:-- Intermezzo
+V4 1:26:36 Intermezzo
 
 1938
-- V3 -:--:-- The Election
+- V4 1:30:45 The Election
 
 ## Bugs
 
-- 0:03:20:07 Guy flying through the air
+- V1 3:20:07 Guy flying through the air
+- V4 0:13:34 Guy stuck in bannister
 
 ## Notes
 
