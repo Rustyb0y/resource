@@ -1,9 +1,6 @@
 # It Takes Two
 
-
-
 ## Links
-
 
 ## PC
 - [PC Parts List](https://pcpartpicker.com/list/wmRm78)
