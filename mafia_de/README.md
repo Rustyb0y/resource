@@ -11,38 +11,43 @@
 
 ## Missions
 
-Video 1
-
 0:03:54 Intro 1938
 
 1930
-- 0:10:25 An offer you can't refuse
-- 0:20:16 Running Man
-- 0:33:07 Molotov Party
-- 0:58:24 Ordinary Routine
-- 1:28:00 Intermezzo 1938
+- V1 0:10:25 An offer you can't refuse
+- V1 0:20:16 Running Man
+- V1 0:33:07 Molotov Party
+- V1 0:58:24 Ordinary Routine
+
+V1 1:28:00 Intermezzo 1938
+
 1932
-- 1:31:54 Fair Play (Racing)
-- 2:51:25 Sarah
-- 3:04:28 Better get used to it
-- 3:23:05 The Saint and the Sinner
-- 4:30:37 Intermezzo 1938
+- V1 1:31:54 Fair Play (Racing)
+- V1 2:51:25 Sarah
+- V1 3:04:28 Better get used to it
+- V1 3:23:05 The Saint and the Sinner
+
+V1 4:30:37 Intermezzo 1938
+
 1933
-- 4:35:43 A trip to the Country
-Video 2
-- 0:00:00 Omerta
-- 0:36:05 Visiting Rich People
-- -:--:-- Great Deal
-- 1:19:00 Intermezzo (Missing Footage)
+- V1 4:35:43 A trip to the Country
+- V2 0:00:00 Omerta
+- V2 0:36:05 Visiting Rich People
+- V2 -:--:-- Great Deal
+
+V2 1:19:00 Intermezzo (Missing Footage)
+
 1935
-- 1:19:00 Bon Apetite
-Video 3
-- 0:00:00 Happy Birthday
-- -:--:-- You Lucky Bastard
-- 1:06:00 Creme de La creme
-- -:--:-- Intermezzo
+- V2 1:19:00 Bon Apetite
+
+- V3 0:00:00 Happy Birthday
+- V3 -:--:-- You Lucky Bastard
+- V3 1:06:00 Creme de La creme
+
+V3 -:--:-- Intermezzo
+
 1938
-- -:--:-- The Election
+- V3 -:--:-- The Election
 
 ## Bugs
 
