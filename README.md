@@ -3,11 +3,12 @@
 
 
 ## Links
-PC Parts List https://pcpartpicker.com/list/wmRm78
 
-## Custom Watercooling
 
-###### PC Parts
+## PC
+- [PC Parts List](https://pcpartpicker.com/list/wmRm78)
+
+###### PC Cooling Parts
 - [EK-Quantum Velocity - Copper + Acetal CPU Waterblock](https://www.ekwb.com/shop/ek-velocity-copper-acetal)
 - [EK-Quantum Vector Strix RTX 3080/3090 D-RGB - Nickel + Plexi GPU Waterblock](https://www.ekwb.com/shop/ek-quantum-vector-strix-rtx-3080-3090-d-rgb-nickel-plexi)
 - [EK-Quantum Vector Strix RTX 3070/3080/3090 Backplate - Black](https://www.ekwb.com/shop/ek-quantum-vector-strix-rtx-3070-3080-3090-backplate-black)
