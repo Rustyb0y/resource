@@ -22,5 +22,7 @@ PC Parts List https://pcpartpicker.com/list/wmRm78
 - [EK-Quantum Torque STC-10/16 - Black](https://www.ekwb.com/shop/ek-torque-stc-10-16-black)
 - [EK-Quantum Torque Rotary 90° - Black](https://www.ekwb.com/shop/ek-torque-angled-90-black)
 - [EK-Quantum Vector Strix RTX 3080/3090 D-RGB - Nickel + Plexi](https://www.ekwb.com/shop/ek-quantum-vector-strix-rtx-3080-3090-d-rgb-nickel-plexi)
+- [EK-Quantum Vector Strix RTX 3070/3080/3090 Backplate - Black](https://www.ekwb.com/shop/ek-quantum-vector-strix-rtx-3070-3080-3090-backplate-black)
 - [EK-Quantum Velocity - Copper + Acetal](https://www.ekwb.com/shop/ek-velocity-copper-acetal)
 - [EK-Loop DDC 4.2 PWM Motor](https://www.ekwb.com/shop/ek-loop-ddc-4-2-pwm-motor)
+- [EK-CryoFuel Clear (Premix 1000mL)](https://www.ekwb.com/shop/ek-cryofuel-clear-premix-1000ml)
