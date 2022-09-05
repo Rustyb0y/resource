@@ -41,16 +41,38 @@ V1 4:30:37 Intermezzo 1938
 V2 1:19:53 Intermezzo (Missing Footage)
 
 1935
-- V2 1:19:53 Bon Apetite
-
-- V3 0:00:00 Happy Birthday
+- V2 1:19:53 Bon Apetite (Attempting Killing)
+- V3 0:00:00 Happy Birthday (Revenge Killing)
 - V4 0:23:43 You Lucky Bastard
 - V4 1:06:07 Creme de La creme
 
-V4 1:26:36 Intermezzo
+V4 1:26:36 Intermezzo 
 
 1938
-- V4 1:30:45 The Election
+- V4 1:30:45 The Election (Assassination)
+- V5 0:00:00 The Election (Assassination)
+- V5 0:45:48 Just for Relaxation (Customs Robbery)
+- V5 1:34:14 Moonlighting (Bank Job w/Paulie)
+- V5 1:48:29 The Death of Art (Sam's Betrayal)
+
+V5 2:20:40 Intermezzo Finale 1951
+
+V5 2:26:40 Credits
+
+## Free Ride
+- 11 Challenges
+
+1. Little Italy, West - Telephone (The Crazy Horse)
+2. Works Quarter, Trolley Station (Look at the Sky at Night) - ?
+3. Oakwood, East of Graveyard
+4. Central Island, Parking Garage
+5. Chinatown - Disused Service Station
+6. Lost Heaven Harbour, Entrance - Telephone
+7. Frye Dam, Power Station
+8. Downtown, West - Giant Cup
+9. Pepe's Telephone
+10. Holbrook, North East - Bessy
+11. Holbrook, South - Telephone (Carlo Murder)
 
 ## Bugs
 
