@@ -49,7 +49,7 @@ V2 1:19:53 Intermezzo (Missing Footage)
 V4 1:26:36 Intermezzo 
 
 1938
-- V4 1:30:45 The Election (Assassination)
+- V4 1:30:45 The Election Intro Only (Assassination)
 - V5 0:00:00 The Election (Assassination)
 - V5 0:45:48 Just for Relaxation (Customs Robbery)
 - V5 1:34:14 Moonlighting (Bank Job w/Paulie)
