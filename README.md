@@ -1,12 +1,19 @@
 # Youtube Description Template
 
+This is part # of my full playthough of It Takes Two.  
 
+## Support
+
+► Support on Patreon: https://www.patreon.com/user?u=36628189
 
 ## Links
 
+► Twitch https://www.twitch.tv/rustyb0y
+► Twitter https://twitter.com/RustyboyVids
 
-## PC
-- [PC Parts List](https://pcpartpicker.com/list/wmRm78)
+## My PC Specs
+
+My Gaming PC: https://pcpartpicker.com/list/wmRm78
 
 ###### PC Cooling Parts
 - [EK-Quantum Velocity - Copper + Acetal CPU Waterblock](https://www.ekwb.com/shop/ek-velocity-copper-acetal)
@@ -31,3 +38,11 @@
 - [4Pin PWM extension 90cm black](https://shop.watercool.de/4Pin-PWM-extension-90cm-black_1)
 - [QD3 Male Quick Disconnect](https://shop.watercool.de/QD3-Female-Quick-Disconnect-No-Spill-Coupling-Compression-for-10mm-x-16mm-3-8in-x-5-8in)
 - [QD3 Female Quick Disconnect](https://shop.watercool.de/QD3-Female-Quick-Disconnect-No-Spill-Coupling-Compression-for-10mm-x-16mm-3-8in-x-5-8in)
+
+## Chapters
+
+
+
+## Hash Tags
+
+Rustyboy ItTakesTwo FullPlaythrough
