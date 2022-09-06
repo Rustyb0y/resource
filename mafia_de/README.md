@@ -1,5 +1,15 @@
 # Mafia Definitive Edition
 
+## Script
+
+###### Intro
+
+###### Settings
+
+###### Graphics Optimisation
+
+###### Difficulty
+
 ## Game Play
 
 ###### Modes
