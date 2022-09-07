@@ -8,6 +8,7 @@ This is part # of my full playthough of It Takes Two.
 
 ## Links
 
+► Resource 
 ► Twitch https://www.twitch.tv/rustyb0y
 ► Twitter https://twitter.com/RustyboyVids
 
