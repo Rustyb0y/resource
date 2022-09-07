@@ -46,4 +46,4 @@ My Gaming PC: https://pcpartpicker.com/list/wmRm78
 
 ## Hash Tags
 
-Rustyboy ItTakesTwo FullPlaythrough
+Rustyboy ItTakesTwo FullPlaythrough PC

@@ -2,6 +2,8 @@
 
 ## Overview of the game
 
+Ladies and Gentlemen my name is Rustyboy and welcome to my video on "game". It is a "game type" game brought to you by "studio".  They have been responsible for other titles such as "notable titles". 
+
 ###### Options
 
 1. Highlight anything important
@@ -24,28 +26,26 @@
 
 ###### Gameplay
 
-1. Exlanation of how the game works
+1. Game Function
 2. Features
-    - Pointless?
 3. Previous game comparisons
-    - Improvements
 4. Improvements
-    - Suggestions
 5. Gunplay
-    - Issues
 6. Story
-    - Characters
-    - Plot
 7. Cut scenes
-    - Excessive?
-    - Pointless?
+8. Game Saving
+9. Player Power
 
 *Show In-Game Examples
 *Hide any spoilers
 
 ###### Bugs
 
-###### Opinion
+###### Final Recommendation
+
+###### Outro
+
+My name is Rustyboy and if you liked the video, please hit the like button and if you didn't the dislike is right next to it and I'll see you next time.
 
 ###### Notes
 

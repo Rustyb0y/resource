@@ -46,8 +46,8 @@ My Gaming PC: https://pcpartpicker.com/list/wmRm78
 
 ## Tags
 
-Rustyboy, It Takes Two, Full Playthrough, No Commentary, PC, 
+Rustyboy, It Takes Two, Full Playthrough, No Commentary, PC
 
 ## Hash Tags
 
-Rustyboy ItTakesTwo FullPlaythrough NoCommentary
+Rustyboy ItTakesTwo FullPlaythrough NoCommentary PC
