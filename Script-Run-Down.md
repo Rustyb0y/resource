@@ -2,7 +2,7 @@
 
 ## Overview of the game
 
-## Options
+###### Options
 
 1. Highlight anything important
 2. Keybinding
@@ -22,7 +22,7 @@
         - Colourblind Mode
 5. Game Options
 
-## Gameplay
+###### Gameplay
 
 - Exlanation of how the game works
 - Features that are a waste of time
