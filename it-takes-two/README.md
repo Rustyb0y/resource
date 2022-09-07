@@ -1,6 +1,8 @@
 # It Takes Two
 
-This is part # of my full playthough of It Takes Two.  
+This is part # of my full playthough of It Takes Two.
+
+It Takes Two is a thouroughly enjoyable game and highly recommended.
 
 ## Support
 
@@ -8,6 +10,7 @@ This is part # of my full playthough of It Takes Two.
 
 ## Links
 
+► Resource https://github.com/Rustyb0y/youtube/tree/master/it-takes-two
 ► Twitch https://www.twitch.tv/rustyb0y
 ► Twitter https://twitter.com/RustyboyVids
 
@@ -41,8 +44,10 @@ My Gaming PC: https://pcpartpicker.com/list/wmRm78
 
 ## Chapters
 
+## Tags
 
+Rustyboy, It Takes Two, Full Playthrough, No Commentary, PC, 
 
 ## Hash Tags
 
-Rustyboy ItTakesTwo FullPlaythrough
+Rustyboy ItTakesTwo FullPlaythrough NoCommentary
