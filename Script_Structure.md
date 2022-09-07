@@ -1,8 +1,8 @@
 # Script Structure
 
-###### Overview of the game
+## Overview of the game
 
-###### Options
+## Options
 - Highlight anything important
 - Keybinding Issues
     - Things that make the gameplay more clunky
