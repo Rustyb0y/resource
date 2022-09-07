@@ -24,13 +24,28 @@
 
 ###### Gameplay
 
-- Exlanation of how the game works
-- Features that are a waste of time
-- Previous game comparisons
-- In Game Examples
-- Suggest areas of improvement
+1. Exlanation of how the game works
+2. Features
+    - Pointless?
+3. Previous game comparisons
+    - Improvements
+4. Improvements
+    - Suggestions
+5. Gunplay
+    - Issues
+6. Story
+    - Characters
+    - Plot
+7. Cut scenes
+    - Excessive?
+    - Pointless?
 
+*Show In-Game Examples
 *Hide any spoilers
+
+###### Bugs
+
+###### Opinion
 
 ###### Notes
 
