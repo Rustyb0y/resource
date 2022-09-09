@@ -1,6 +1,6 @@
-This is part 1 <chapter> of my full playthough of <game>
+This is part 1 Maniacal Machines of my full playthough of It Takes Two
 
-<game> is a thouroughly enjoyable game and highly recommended.
+It Takes Two is a thouroughly enjoyable game and highly recommended.
 
 ► Support on Patreon: https://www.patreon.com/user?u=36628189
 ► Video Resource: https://github.com/Rustyb0y/youtube/tree/master/it-takes-two
@@ -37,8 +37,4 @@ QD3 Female Quick Disconnect (https://shop.watercool.de/QD3-Female-Quick-Disconne
 
 Chapters
 
-Tags
-Rustyboy PC
-
-Hash Tags
-#Rustyboy #PC
+#Rustyboy  #ItTakesTwo #FullPlaythrough #NoCommentary #PC
