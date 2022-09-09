@@ -1,4 +1,4 @@
-This is part 1 of my full playthough of <game>, <chappter>
+This is part 1 <chappter> of my full playthough of <game>
 
 <game> is a thouroughly enjoyable game and highly recommended.
 

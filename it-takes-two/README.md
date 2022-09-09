@@ -1,4 +1,4 @@
-This is part 1 of my full playthough of It Takes Two, Maniacal Machines
+This is part 1 Maniacal Machines of my full playthough of It Takes Two
 
 It Takes Two is a thouroughly enjoyable game and highly recommended.
 
