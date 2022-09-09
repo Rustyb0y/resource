@@ -1,5 +1,7 @@
 # It Takes Two
 
+It Takes Two is a thouroughly enjoyable game and highly recommended.
+
 ## Parts
 1. Maniacal Machines
 2. Waso Queen?
