@@ -12,8 +12,11 @@ It Takes Two is a thouroughly enjoyable game and highly recommended.
 PC Cooling Parts
 ---------------------------------------------------
 EK-Quantum Velocity CPU Waterblock https://www.ekwb.com/shop/ek-velocity-copper-acetal
+
 EK-Quantum Vector Strix RTX  GPU Waterblock (https://www.ekwb.com/shop/ek-quantum-vector-strix-rtx-3080-3090-d-rgb-nickel-plexi)
+
 EK-Quantum Vector Strix RTX Backplate (https://www.ekwb.com/shop/ek-quantum-vector-strix-rtx-3070-3080-3090-backplate-black)
+
 HEATKILLER 200mm Reservoir DDC (https://shop.watercool.de/HEATKILLER-Tube-200-DDC-MP)
 EK-Loop DDC 4.2 PWM Motor (https://www.ekwb.com/shop/ek-loop-ddc-4-2-pwm-motor)
 HEATKILLER Reservoir Mounting Kit (https://shop.watercool.de/HEATKILLERZ-Tube-basic-mount)
