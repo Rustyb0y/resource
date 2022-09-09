@@ -26,21 +26,13 @@ EK-CryoFuel Clear (Premix 1000mL (https://www.ekwb.com/shop/ek-cryofuel-clear-pr
 External Radiator
 ---------------------------------------------------
 MO-RA3 420 Radiator for Noctua NF-A20 (https://shop.watercool.de/MO-RA3-420-for-Noctua-NF-A20_1)
-
 Noctua NF-A20 Fans (https://noctua.at/en/products/fan/nf-a20-pwm-chromax-black-swap)
-
 MO-RA3 Radiator Fan Grill (https://shop.watercool.de/MO-RA3-420-Fan-Grill-Classic-black-high-version_1)
-
 MO-RA3 feet (https://shop.watercool.de/MO-RA3-feet)
-
 MO-RA NF-A20 Fan Splitter (https://shop.watercool.de/MO-RA-X-SPLITTER-FOR-NOCTUA-NF-A20_1)
-
 PCI Slot Pass-Through Bracket (https://shop.watercool.de/PCI-Slot-Pass-Through-Bracket)
-
 4Pin PWM extension 90cm black (https://shop.watercool.de/4Pin-PWM-extension-90cm-black_1)
-
 QD3 Male Quick Disconnect (https://shop.watercool.de/QD3-Female-Quick-Disconnect-No-Spill-Coupling-Compression-for-10mm-x-16mm-3-8in-x-5-8in)
-
 QD3 Female Quick Disconnect (https://shop.watercool.de/QD3-Female-Quick-Disconnect-No-Spill-Coupling-Compression-for-10mm-x-16mm-3-8in-x-5-8in)
 
 Chapters
