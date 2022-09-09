@@ -6,7 +6,7 @@ It Takes Two is a thouroughly enjoyable game and highly recommended.
 1. Maniacal Machines
     - 0:00 Introduction
     - 3:56 Vacuum Tower
-    - 45:56 Mays Toolbox
+    - 45:56 Mays Toolbox 
 2. Waso Queen?
 3. Monkey Business
 4. Toy Story
