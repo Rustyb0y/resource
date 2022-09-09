@@ -11,18 +11,17 @@ It Takes Two is a thouroughly enjoyable game and highly recommended.
 
 PC Cooling Parts
 ---------------------------------------------------
-EK-Quantum Velocity CPU Waterblock https://www.ekwb.com/shop/ek-velocity-copper-acetal<br>
-EK-Quantum Vector Strix RTX  GPU Waterblock (https://www.ekwb.com/shop/ek-quantum-vector-strix-rtx-3080-3090-d-rgb-nickel-plexi)
-EK-Quantum Vector Strix RTX Backplate (https://www.ekwb.com/shop/ek-quantum-vector-strix-rtx-3070-3080-3090-backplate-black)
-
-HEATKILLER 200mm Reservoir DDC (https://shop.watercool.de/HEATKILLER-Tube-200-DDC-MP)
-EK-Loop DDC 4.2 PWM Motor (https://www.ekwb.com/shop/ek-loop-ddc-4-2-pwm-motor)
-HEATKILLER Reservoir Mounting Kit (https://shop.watercool.de/HEATKILLERZ-Tube-basic-mount)
-HEATKILLER Reservoir Flex Adaptor (https://shop.watercool.de/HEATKILLERZ-Tube-120mm-Adapter-FLEX)
-EK-Tube ZMT Matte Black (https://www.ekwb.com/shop/ek-tube-zmt-matte-black-15-9-9-5mm-3m-retail)
-EK-Quantum Torque STC-10/16 - Black (https://www.ekwb.com/shop/ek-torque-stc-10-16-black)
-EK-Quantum Torque Rotary 90° - Black (https://www.ekwb.com/shop/ek-torque-angled-90-black)
-EK-CryoFuel Clear (Premix 1000mL (https://www.ekwb.com/shop/ek-cryofuel-clear-premix-1000ml)
+- EK-Quantum Velocity CPU Waterblock https://www.ekwb.com/shop/ek-velocity-copper-acetal
+- EK-Quantum Vector Strix RTX  GPU Waterblock (https://www.ekwb.com/shop/ek-quantum-vector-strix-rtx-3080-3090-d-rgb-nickel-plexi)
+- EK-Quantum Vector Strix RTX Backplate (https://www.ekwb.com/shop/ek-quantum-vector-strix-rtx-3070-3080-3090-backplate-black)
+- HEATKILLER 200mm Reservoir DDC (https://shop.watercool.de/HEATKILLER-Tube-200-DDC-MP)
+- EK-Loop DDC 4.2 PWM Motor (https://www.ekwb.com/shop/ek-loop-ddc-4-2-pwm-motor)
+- HEATKILLER Reservoir Mounting Kit (https://shop.watercool.de/HEATKILLERZ-Tube-basic-mount)
+- HEATKILLER Reservoir Flex Adaptor (https://shop.watercool.de/HEATKILLERZ-Tube-120mm-Adapter-FLEX)
+- EK-Tube ZMT Matte Black (https://www.ekwb.com/shop/ek-tube-zmt-matte-black-15-9-9-5mm-3m-retail)
+- EK-Quantum Torque STC-10/16 - Black (https://www.ekwb.com/shop/ek-torque-stc-10-16-black)
+- EK-Quantum Torque Rotary 90° - Black (https://www.ekwb.com/shop/ek-torque-angled-90-black)
+- EK-CryoFuel Clear (Premix 1000mL (https://www.ekwb.com/shop/ek-cryofuel-clear-premix-1000ml)
 
 
 External Radiator
