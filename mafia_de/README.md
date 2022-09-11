@@ -83,7 +83,7 @@ V5 2:20:40 Intermezzo Finale 1951 6m
 V5 2:26:40 Credits
 
 ###### Free Ride
-- 11 Challenges
+- 12 Challenges
 
 1. Little Italy, West - Telephone (The Crazy Horse)
 2. Works Quarter, Trolley Station (Look at the Sky at Night) - ?
