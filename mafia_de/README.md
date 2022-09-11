@@ -86,8 +86,7 @@ V5 2:26:40 Credits
 10. Holbrook, North East - Bessy
 11. Holbrook, South - Telephone (Carlo Murder)
 
-- Free Ride (Open World Sandbox)
-- Test Drive
+## Test Drive
 
 # Tips
 - (General) Use timing to destroy barrels inorder to kill enemies
