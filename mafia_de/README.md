@@ -14,23 +14,21 @@
 
 ## Missions
 
-0:03:54 Intro 1938 6m
+V1 0:03:54 Prologue 1938 6m
 
 ### 1930 (1hr 22m)
 - V1 0:10:25 An offer you can't refuse 10m
 - V1 0:20:16 Running Man 13m
 - V1 0:33:07 Molotov Party 25m
 - V1 0:58:24 Ordinary Routine 30m
-
-V1 1:28:00 Intermezzo 1938 4m
+- V1 1:28:00 Intermezzo 1938 4m
 
 ### 1932 (4hrs 19m)
 - V1 1:31:54 Fair Play (Racing) 80m
 - V1 2:51:25 Sarah 90m
 - V1 3:04:28 Better get used to it 16m
 - V1 3:23:05 The Saint and the Sinner 67m
-
-V1 4:30:37 Intermezzo 1938 6m
+- V1 4:30:37 Intermezzo 1938 6m
 
 ### 1933 (2hrs 19m)
 - V1 4:35:43 A trip to the Country 54m
@@ -45,8 +43,7 @@ V2 1:19:53 Intermezzo (Missing Footage) ~5m
 - V3 0:00:00 Happy Birthday (Revenge Killing) 24m
 - V4 0:23:43 You Lucky Bastard 42m
 - V4 1:06:07 Creme de La creme 20m
-
-V4 1:26:36 Intermezzo 5m
+- V4 1:26:36 Intermezzo 5m
 
 ### 1938 (2hr 30m)
 - V4 1:30:45 The Election Intro Only (Assassination) 3m
@@ -55,7 +52,7 @@ V4 1:26:36 Intermezzo 5m
 - V5 1:34:14 Moonlighting (Bank Job w/Paulie) 15m
 - V5 1:48:29 The Death of Art (Sam's Betrayal) 31m
 
-V5 2:20:40 Intermezzo Finale 1951 6m
+V5 2:20:40 Epilogue Finale 1951 6m
 
 ### Total Time: 12hrs 24m
 
