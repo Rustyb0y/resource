@@ -133,8 +133,12 @@ Favourite Mission: Fair Play
 
 ![image2](display_02.png)
 
+## Resources
+- [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Mafia:_Definitive_Edition)
+- [Graphics Settings Guide by WePC](https://www.youtube.com/watch?v=TWZj4zSw2vw)
+- [Fandom.com MafiaWiki](https://mafiagame.fandom.com/wiki/Category:Mafia:_Definitive_Edition)
+
 ## Useful Links
-- [Good graphics settings guide - WePC](https://www.youtube.com/watch?v=TWZj4zSw2vw)
 - [Skip Launcher - PCGamingWiki](https://www.pcgamingwiki.com/wiki/Mafia:_Definitive_Edition#Skip_2K_launcher)
 - [Skip Intro - PCGamingWiki](https://www.pcgamingwiki.com/wiki/Mafia:_Definitive_Edition#Skip_intro_videos)
 - [Extended Mouse Buttons - PCGamingWiki](https://www.pcgamingwiki.com/wiki/Mafia:_Definitive_Edition#Map_Extended_Mouse_Buttons)
