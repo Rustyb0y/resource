@@ -1,4 +1,4 @@
-![thumb1](Mafia_Definitive_Edition_cover.jpg)
+<img src="Mafia_Definitive_Edition_cover.jpg" width="200" />
 
 # Script
 
