@@ -16,7 +16,7 @@
 
 0:03:54 Intro 1938 6m
 
-###### 1930
+###### 1930 (1hr 22m)
 - V1 0:10:25 An offer you can't refuse 10m
 - V1 0:20:16 Running Man 13m
 - V1 0:33:07 Molotov Party 25m
@@ -24,9 +24,7 @@
 
 V1 1:28:00 Intermezzo 1938 4m
 
-88m
-
-###### 1932
+###### 1932 (4hrs 19m)
 - V1 1:31:54 Fair Play (Racing) 80m
 - V1 2:51:25 Sarah 90m
 - V1 3:04:28 Better get used to it 16m
@@ -34,9 +32,7 @@ V1 1:28:00 Intermezzo 1938 4m
 
 V1 4:30:37 Intermezzo 1938 6m
 
-259m
-
-###### 1933
+###### 1933 (2hrs 19m)
 - V1 4:35:43 A trip to the Country 54m
 - V2 0:00:00 Omerta 36m
 - V2 0:36:05 Visiting Rich People 24m
@@ -44,9 +40,7 @@ V1 4:30:37 Intermezzo 1938 6m
 
 V2 1:19:53 Intermezzo (Missing Footage) ~5m
 
-139m
-
-###### 1935
+###### 1935 (1hr 48m)
 - V2 1:19:53 Bon Apetite (Attempting Killing) 17m
 - V3 0:00:00 Happy Birthday (Revenge Killing) 24m
 - V4 0:23:43 You Lucky Bastard 42m
@@ -54,9 +48,7 @@ V2 1:19:53 Intermezzo (Missing Footage) ~5m
 
 V4 1:26:36 Intermezzo 5m
 
-108m
-
-###### 1938
+###### 1938 (2hr 30m)
 - V4 1:30:45 The Election Intro Only (Assassination) 3m
 - V5 0:00:00 The Election (Assassination) 46m
 - V5 0:45:48 Just for Relaxation (Customs Robbery) 49m
@@ -65,9 +57,7 @@ V4 1:26:36 Intermezzo 5m
 
 V5 2:20:40 Intermezzo Finale 1951 6m
 
-150m
-
-744m = 12 Hours 24m
+###### Total Time: 12hrs 24m
 
 V5 2:26:40 Credits
 
