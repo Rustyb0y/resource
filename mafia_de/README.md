@@ -60,7 +60,7 @@ V5 2:26:40 Credits
 
 ## Free Ride
 
-###### 12 Challenges
+### 12 Challenges
 1. Little Italy, West - Telephone (The Crazy Horse)
 2. Works Quarter, Trolley Station (Look at the Sky at Night) - ?
 3. Oakwood, East of Graveyard
