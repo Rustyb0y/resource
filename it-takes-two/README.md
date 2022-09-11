@@ -1,4 +1,4 @@
-# It Takes Two
+<img src="cover.jpg" width="200" />
 
 It Takes Two is a thouroughly enjoyable game and highly recommended.
 
