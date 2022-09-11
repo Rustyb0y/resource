@@ -72,8 +72,8 @@ V5 2:20:40 Intermezzo Finale 1951 6m
 V5 2:26:40 Credits
 
 ## Free Ride
-- 12 Challenges
 
+###### 12 Challenges
 1. Little Italy, West - Telephone (The Crazy Horse)
 2. Works Quarter, Trolley Station (Look at the Sky at Night) - ?
 3. Oakwood, East of Graveyard
@@ -90,10 +90,15 @@ V5 2:26:40 Credits
 ## Test Drive
 
 # Tips
-- (General) Use timing to destroy barrels inorder to kill enemies
-- (Fair Play) Use the high points on the banked curves to maintain speed
-- (Fair Play) Better to lose track position than to risk crashing
-- (Fair Play) Try and gain positions early using the braking zones and corners
+
+###### General
+- Use timing to destroy barrels inorder to kill enemies
+
+###### Fair Play
+- Use the high points on the banked curves to maintain speed
+- Better to lose track position than to risk crashing
+- Try and gain positions early using the braking zones and corners
+- Cars will randomly crash during the race
 
 # Bugs
 
