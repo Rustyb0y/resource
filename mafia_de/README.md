@@ -1,35 +1,22 @@
 ![thumb1](Mafia_Definitive_Edition_cover.jpg)
 
-# Mafia Definitive Edition
+# Script
 
-## Script
+## Intro
 
-###### Intro
+## Settings
 
-###### Settings
+## Graphics Optimisation
 
-###### Graphics Optimisation
+## Difficulty
 
-###### Difficulty
+# Game Modes
 
-## Game Play
-
-###### Modes
-- Linear Missions
-- Free Ride (Open World Sandbox)
-- Test Drive
-
-###### Tips
-- (General) Use timing to destroy barrels inorder to kill enemies
-- (Fair Play) Use the high points on the banked curves to maintain speed
-- (Fair Play) Better to lose track position than to risk crashing
-- (Fair Play) Try and gain positions early using the braking zones and corners
-
-###### Missions
+## Missions
 
 0:03:54 Intro 1938 6m
 
-1930
+###### 1930
 - V1 0:10:25 An offer you can't refuse 10m
 - V1 0:20:16 Running Man 13m
 - V1 0:33:07 Molotov Party 25m
@@ -39,7 +26,7 @@ V1 1:28:00 Intermezzo 1938 4m
 
 88m
 
-1932
+###### 1932
 - V1 1:31:54 Fair Play (Racing) 80m
 - V1 2:51:25 Sarah 90m
 - V1 3:04:28 Better get used to it 16m
@@ -49,7 +36,7 @@ V1 4:30:37 Intermezzo 1938 6m
 
 259m
 
-1933
+###### 1933
 - V1 4:35:43 A trip to the Country 54m
 - V2 0:00:00 Omerta 36m
 - V2 0:36:05 Visiting Rich People 24m
@@ -59,7 +46,7 @@ V2 1:19:53 Intermezzo (Missing Footage) ~5m
 
 139m
 
-1935
+###### 1935
 - V2 1:19:53 Bon Apetite (Attempting Killing) 17m
 - V3 0:00:00 Happy Birthday (Revenge Killing) 24m
 - V4 0:23:43 You Lucky Bastard 42m
@@ -69,7 +56,7 @@ V4 1:26:36 Intermezzo 5m
 
 108m
 
-1938
+###### 1938
 - V4 1:30:45 The Election Intro Only (Assassination) 3m
 - V5 0:00:00 The Election (Assassination) 46m
 - V5 0:45:48 Just for Relaxation (Customs Robbery) 49m
@@ -84,7 +71,7 @@ V5 2:20:40 Intermezzo Finale 1951 6m
 
 V5 2:26:40 Credits
 
-###### Free Ride
+## Free Ride
 - 12 Challenges
 
 1. Little Italy, West - Telephone (The Crazy Horse)
@@ -99,25 +86,26 @@ V5 2:26:40 Credits
 10. Holbrook, North East - Bessy
 11. Holbrook, South - Telephone (Carlo Murder)
 
-## Bugs
+- Free Ride (Open World Sandbox)
+- Test Drive
+
+# Tips
+- (General) Use timing to destroy barrels inorder to kill enemies
+- (Fair Play) Use the high points on the banked curves to maintain speed
+- (Fair Play) Better to lose track position than to risk crashing
+- (Fair Play) Try and gain positions early using the braking zones and corners
+
+# Bugs
 
 - V1 3:20:07 Guy flying through the air
 - V4 0:13:34 Guy stuck in bannister
 
-## Notes
-
-Favourite Mission: Fair Play
-
-###### B-Roll
-
-- Intro: Video 1 3:54 to 6:51 
-
-## Resources
+# Resources
 - [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Mafia:_Definitive_Edition)
 - [Graphics Settings Guide by WePC](https://www.youtube.com/watch?v=TWZj4zSw2vw)
 - [Fandom.com MafiaWiki](https://mafiagame.fandom.com/wiki/Category:Mafia:_Definitive_Edition)
 
-## Useful Links
+# Useful Links
 - [Skip Launcher - PCGamingWiki](https://www.pcgamingwiki.com/wiki/Mafia:_Definitive_Edition#Skip_2K_launcher)
 - [Skip Intro - PCGamingWiki](https://www.pcgamingwiki.com/wiki/Mafia:_Definitive_Edition#Skip_intro_videos)
 - [Extended Mouse Buttons - PCGamingWiki](https://www.pcgamingwiki.com/wiki/Mafia:_Definitive_Edition#Map_Extended_Mouse_Buttons)
