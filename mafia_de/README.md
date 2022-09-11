@@ -13,8 +13,9 @@
 ## Game Play
 
 ###### Modes
-- Single Player Linear Campaign
+- Linear Missions
 - Free Ride (Open World Sandbox)
+- Test Drive
 
 ###### Tips
 - (General) Use timing to destroy barrels inorder to kill enemies
@@ -22,7 +23,7 @@
 - (Fair Play) Better to lose track position than to risk crashing
 - (Fair Play) Try and gain positions early using the braking zones and corners
 
-## Missions
+###### Missions
 
 0:03:54 Intro 1938 6m
 
@@ -81,7 +82,7 @@ V5 2:20:40 Intermezzo Finale 1951 6m
 
 V5 2:26:40 Credits
 
-## Free Ride
+###### Free Ride
 - 11 Challenges
 
 1. Little Italy, West - Telephone (The Crazy Horse)
