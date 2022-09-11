@@ -2,15 +2,15 @@
 
 # Script
 
-## Intro
+###### Intro
 
-## Settings
+###### Game Modes
 
-## Graphics Optimisation
+###### Settings
 
-## Difficulty
+###### Graphics Optimisation
 
-# Game Modes
+###### Difficulty
 
 ## Missions
 
