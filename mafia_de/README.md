@@ -1,3 +1,5 @@
+![thumb1](Mafia_Definitive_Edition_cover.jpg)
+
 # Mafia Definitive Edition
 
 ## Script
