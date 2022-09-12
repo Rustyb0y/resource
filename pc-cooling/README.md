@@ -89,7 +89,7 @@ Performance > Maintenance > Budget > Aesthetics
     - EK
 - External Radiator
     - MORA3 for maximum performance
-    ![mora](mo-ra3-420-for-noctua-nf-a20_1_2.jpg)
+    <img src="mo-ra3-420-for-noctua-nf-a20_1_2.jpg" style="height:200px;">
 - Internal HEATKILLER Resevoir
     - Better use of space as I have heaps of room with the radiators/fans removed
     - Easier Mounting if I wanted to mount it externally to the MORA3
