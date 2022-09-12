@@ -106,7 +106,7 @@ Performance > Maintenance > Budget > Aesthetics
 - EK Fittings
     - Convenience
 
-Conversion Cost
+Conversion Costs
 - Sold internal radiators
 - Sold my hard tube fittings and tools
 - Repurposed fans
