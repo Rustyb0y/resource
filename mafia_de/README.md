@@ -16,7 +16,7 @@ Ladies and Gentlemen my name is Rustyboy and welcome to my video on Mafia Defini
 
 ###### Settings
 
-![Optimal Graphics Settings](https://github.com/Rustyb0y/youtube/tree/master/mafia_de/graphics)
+[Optimal Graphics Settings](https://github.com/Rustyb0y/youtube/tree/master/mafia_de/graphics)
 
 ###### Bugs
 - Minor voice inconsistencies
