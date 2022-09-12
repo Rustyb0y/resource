@@ -87,6 +87,8 @@ Performance > Maintenance > Budget > Aesthetics
 
 - Waterblocks
     - EK
+    <img src="images/ek-velocity_-_copper_acetal_-_front.jpg" style="height:200px;">
+    <img src="ek_quantum_vector_strix_rtx_3080_3090_nickel_plexi_new_top.jpg" style="height:200px;">
 - External Radiator
     - MORA3 for maximum performance
     <img src="mo-ra3-420-for-noctua-nf-a20_1_2.jpg" style="height:200px;">
