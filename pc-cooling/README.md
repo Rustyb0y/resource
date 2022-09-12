@@ -93,6 +93,7 @@ Performance > Maintenance > Budget > Aesthetics
 - Internal HEATKILLER Resevoir
     - Better use of space as I have heaps of room with the radiators/fans removed
     - Easier Mounting if I wanted to mount it externally to the MORA3
+    <img src="heatkiller-tube-200-ddc-mp.jpg" style="height:200px;">
 - DDC Pump
     - Save cost as it was one I already had
 - EPDM Matte Black tubing
