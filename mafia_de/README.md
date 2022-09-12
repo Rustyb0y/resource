@@ -16,11 +16,6 @@ Ladies and Gentlemen my name is Rustyboy and welcome to my video on Mafia Defini
 
 ###### Settings
 
-###### Graphics Optimisation
-- Game is locked at 60 fps by default
-- In fullscreen mode If you unlock FPS your monitor will still be at 60hz
-- Need to use reshade or change compatability fullscreen mode to unlock monitor hz
-
 ###### Bugs
 - Minor voice inconsistencies
 - Characters can get stuck into the environment if they use scripted movement
