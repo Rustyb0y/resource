@@ -88,14 +88,14 @@ Performance > Maintenance > Budget > Aesthetics
 - Waterblocks
     - EK
     <img src="images/ek-velocity_-_copper_acetal_-_front.jpg" style="height:200px;">
-    <img src="ek_quantum_vector_strix_rtx_3080_3090_nickel_plexi_new_top.jpg" style="height:200px;">
+    <img src="images/ek_quantum_vector_strix_rtx_3080_3090_nickel_plexi_new_top.jpg" style="height:200px;">
 - External Radiator
     - MORA3 for maximum performance
-    <img src="mo-ra3-420-for-noctua-nf-a20_1_2.jpg" style="height:200px;">
+    <img src="images/mo-ra3-420-for-noctua-nf-a20_1_2.jpg" style="height:200px;">
 - Internal HEATKILLER Resevoir
     - Better use of space as I have heaps of room with the radiators/fans removed
     - Easier Mounting if I wanted to mount it externally to the MORA3
-    <img src="heatkiller-tube-200-ddc-mp.jpg" style="height:200px;">
+    <img src="images/heatkiller-tube-200-ddc-mp.jpg" style="height:200px;">
 - DDC Pump
     - Save cost as it was one I already had
 - EPDM Matte Black tubing
