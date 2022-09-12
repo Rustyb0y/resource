@@ -43,7 +43,7 @@ Budget = Maintenance > Performance > Aesthetics
 - Optimal Routing
 - Minimal Fittings
 - Minimal Tools
-- PVC or PUR
+- Clear PVC or PUR
     - Can leach plasticizer into the loop
     - Can discolor over time
 - EPDM 
@@ -89,6 +89,7 @@ Performance > Maintenance > Budget > Aesthetics
     - EK
 - External Radiator
     - MORA3 for maximum performance
+    ![mora](mo-ra3-420-for-noctua-nf-a20_1_2.jpg)
 - Internal HEATKILLER Resevoir
     - Better use of space as I have heaps of room with the radiators/fans removed
     - Easier Mounting if I wanted to mount it externally to the MORA3
