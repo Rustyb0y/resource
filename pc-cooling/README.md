@@ -100,6 +100,7 @@ Performance > Maintenance > Budget > Aesthetics
     - Save cost as it was one I already had
 - EPDM Matte Black tubing
     - Cheaper and better for the long term
+    <img src="images/tube-zmt-16-10-matte-black_800_2_1.jpg" style="height:200px;">
 - EK Clear Coolant
     - Better for the long term, less maintenance
 - EK Fittings
