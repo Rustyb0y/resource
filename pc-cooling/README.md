@@ -31,14 +31,14 @@
 ## Hard tubing vs Soft tubing
 
 ### Hard Tubing
-Aesthetics > Performance > Budget = Maintenance
+Aesthetics > Budget = Maintenance > Performance
 
 - Requires extra tools
 - Increased cost
 - Complex routing for best Aesthetics
 
 ### Soft Tubing
-Performance = Budget = Maintenance > Aesthetics
+Budget = Maintenance > Performance > Aesthetics
 
 - Optimal Routing
 - Minimal Fittings
@@ -52,10 +52,12 @@ Performance = Budget = Maintenance > Aesthetics
     - Eliminates plasticizer leeching into the loop
 
 ## External vs Internal Radiators
+Performance > Maintenance > Budget > Aesthetics
 
 ### Internal radiators
-- Limited based on your choice of case
+- Choice is limited based on your case
 - More complex tube routing
+- More maintenance time
 
 ### External radiator
 - Takes up more space outside the case
