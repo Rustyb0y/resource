@@ -23,8 +23,6 @@ Ladies and Gentlemen my name is Rustyboy and welcome to my video on Mafia Defini
 - Characters can get stuck into the environment if they use scripted movement
 - People on the street flying through the air when driving near them
 
-
-
 ###### Difficulty
 - I played the game on Classic (Hardest Difficulty)
 - Driving was all done with keyboard
