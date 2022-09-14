@@ -9,7 +9,7 @@ It Takes Two is a thouroughly enjoyable game and highly recommended.
 
 ► Gaming Hardware: https://github.com/Rustyb0y/resource/blob/master/system.md
 
-```md:..\system.md```
+```md:system.md```
 
 Chapters
 
