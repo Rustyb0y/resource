@@ -7,7 +7,9 @@ It Takes Two is a thouroughly enjoyable game and highly recommended.
 ► Twitch: https://www.twitch.tv/rustyb0y
 ► Twitter: https://twitter.com/RustyboyVids
 
-► Gaming Hardware: https://github.com/Rustyb0y/resource/blob/master/system.md
+► Gaming Hardware:
+<!-- MARKDOWN-AUTO-DOCS:START (CODE:src=https://github.com/Rustyb0y/resource/blob/master/system.md) -->
+<!-- MARKDOWN-AUTO-DOCS:END -->
 
 Chapters
 
