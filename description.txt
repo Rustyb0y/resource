@@ -6,7 +6,6 @@ This is chapter # [chapter] of my full playthough of [game]
 ► Video Resource: https://github.com/Rustyb0y/youtube/tree/master/it-takes-two
 ► Twitch: https://www.twitch.tv/rustyb0y
 ► Twitter: https://twitter.com/RustyboyVids
-
 ► Gaming Hardware: https://github.com/Rustyb0y/resource/blob/master/system.md
 
 Chapters
