@@ -1,7 +1,7 @@
 # SYSTEM SPECS
 
-- My Gaming PC: https://pcpartpicker.com/list/wmRm78
-- Custom Watercooling Parts: https://pcpartpicker.com/list/t8JQdC
+- My Gaming PC: https://pcpartpicker.com/user/rustyb0y/saved/#view=kv8qHx
+- Custom Watercooling Parts: https://pcpartpicker.com/user/rustyb0y/saved/#view=t8JQdC
 
 ### Direct Links
 
