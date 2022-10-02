@@ -1,4 +1,4 @@
-# Cyberpunk 2077
+<img src="cover.jpg" width="200" />
 
 ## Optimal Graphics Settings
 
