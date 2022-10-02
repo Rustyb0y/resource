@@ -1,4 +1,4 @@
-<img src="cover.jpg" width="200" />
+<img src="cover.png" width="200" />
 
 ## Optimal Graphics Settings
 
