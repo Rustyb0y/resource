@@ -11,5 +11,6 @@
 
 ## Other Videos
 
+<p align="center">
 <a href="pc-cooling\README.md">PC Cooling</a>
-
+</p>
