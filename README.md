@@ -8,3 +8,5 @@
 
 ## Other Videos
 
+<a href="pc-cooling\README.md">PC Cooling</a>
+
