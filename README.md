@@ -6,7 +6,7 @@
 <a href="cyberpunk-2077\README.md"><img src="https://github.com/Rustyb0y/youtube/blob/master/cyberpunk-2077/cover.png" height="200px"></img></a>
 </p>
 
-## 3rd Perston Action
+## 3rd Person Action
 
 <p align="center">
 <a href="mafia_de\README.md"><img src="https://github.com/Rustyb0y/youtube/blob/master/mafia_de/cover.jpg" height="200px"></img></a>
