@@ -6,11 +6,16 @@
 <a href="cyberpunk-2077\README.md"><img src="https://github.com/Rustyb0y/youtube/blob/master/cyberpunk-2077/cover.png" height="200px"></img></a>
 </p>
 
-## 3rd Person
+## 3rd Perston Action
+
+<p align="center">
+<a href="mafia_de\README.md"><img src="https://github.com/Rustyb0y/youtube/blob/master/mafia_de/cover.jpg" height="200px"></img></a>
+</p>
+
+## 3rd Person Adventure
 
 <p align="center">
 <a href="it-takes-two\README.md"><img src="https://github.com/Rustyb0y/youtube/blob/master/it-takes-two/cover.jpg" height="200px"></img></a>
-<a href="mafia_de\README.md"><img src="https://github.com/Rustyb0y/youtube/blob/master/mafia_de/cover.jpg" height="200px"></img></a>
 <a href="stray\README.md"><img src="https://github.com/Rustyb0y/youtube/blob/master/stray/cover.jpg" height="200px"></img></a>
 </p>
 
