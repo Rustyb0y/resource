@@ -12,10 +12,15 @@
 <a href="mafia_de\README.md"><img src="https://github.com/Rustyb0y/youtube/blob/master/mafia_de/cover.jpg" height="200px"></img></a>
 </p>
 
-## 3rd Person Adventure
+## 3rd Person Action, Platform, Puzzle
 
 <p align="center">
 <a href="it-takes-two\README.md"><img src="https://github.com/Rustyb0y/youtube/blob/master/it-takes-two/cover.jpg" height="200px"></img></a>
+</p>
+
+## 3rd Person Adventure
+
+<p align="center">
 <a href="stray\README.md"><img src="https://github.com/Rustyb0y/youtube/blob/master/stray/cover.jpg" height="200px"></img></a>
 </p>
 
