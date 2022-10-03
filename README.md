@@ -1,6 +1,6 @@
 # Rustyboy's Youtube Channel
 
-## First Person
+## First Person Action
 
 <p align="center">
 <a href="cyberpunk-2077\README.md"><img src="https://github.com/Rustyb0y/youtube/blob/master/cyberpunk-2077/cover.png" height="200px"></img></a>
@@ -24,7 +24,7 @@
 <a href="stray\README.md"><img src="https://github.com/Rustyb0y/youtube/blob/master/stray/cover.jpg" height="200px"></img></a>
 </p>
 
-## Point and Click Adventure Games
+## Adventure Games
 
 <p align="center">
 <a href="return-to-monkey-island\README.md"><img src="https://github.com/Rustyb0y/youtube/blob/master/return-to-monkey-island/cover.jpg" height="200px"></img></a>
