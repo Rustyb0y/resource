@@ -7,6 +7,6 @@
 
 - Running the game uncapped will effect the game engines physics, recommended to cap fps at 60.
 
-## Overview
+## Tags
 
-Immersive, Easy Puzzles
+Atmospheric, Immersive, Easy Puzzles
