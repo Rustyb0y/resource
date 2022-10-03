@@ -24,7 +24,7 @@
 <a href="stray\README.md"><img src="https://github.com/Rustyb0y/youtube/blob/master/stray/cover.jpg" height="200px"></img></a>
 </p>
 
-## Adventure Games
+## Adventure
 
 <p align="center">
 <a href="return-to-monkey-island\README.md"><img src="https://github.com/Rustyb0y/youtube/blob/master/return-to-monkey-island/cover.jpg" height="200px"></img></a>
