@@ -13,6 +13,7 @@
 <a href="mafia_de\README.md"><img src="https://github.com/Rustyb0y/youtube/blob/master/mafia_de/cover.jpg" height="200px"></img></a>
 <a href="stray\README.md"><img src="https://github.com/Rustyb0y/youtube/blob/master/stray/cover.jpg" height="200px"></img></a>
 </p>
+
 ## Point and Click Adventure Games
 
 <p align="center">
