@@ -1,8 +1,12 @@
 <img src="cover.jpg" width="200" />
 
-Stray
+## Settings
 
-1. Overview
-2. Settings
-3. Graphics
-4. Ratings
+
+## Graphics
+
+- Running the game uncapped will effect the game engines physics, recommended to cap fps at 60.
+
+## Ratings
+
+#### Immersive, 
