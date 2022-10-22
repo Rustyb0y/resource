@@ -1,4 +1,4 @@
-# Rustyboy's Game Rankings Page
+# Rustyboy's Game Rankings
 
 ## Epic
 
