@@ -2,6 +2,10 @@
 
 ## Epic
 
+<p align="center">
+    <a href="https://www.pcgamingwiki.com/wiki/The_Witcher_3:_Wild_Hunt"><img src="https://www.pcgamingwiki.com/wiki/File:The_Witcher_3_Wild_Hunt_-_cover.jpg" height="200px"></img></a>
+</p>
+
 ## Underrated
 
 <p align="center">
