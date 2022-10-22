@@ -1,6 +1,6 @@
 # Rustyboy's Youtube Channel
 
-[Rustyboy's Game Rankings](https://github.com/Rustyb0y/resource/tree/master/rankings)
+[Rustyboy's Game Rankings Here](https://github.com/Rustyb0y/resource/tree/master/rankings)
 
 ### First Person Action
 
